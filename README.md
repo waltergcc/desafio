@@ -2,7 +2,10 @@
 
 Seja bem-vindo a resolução do desafio de Códigos Capgemini.
 
-A linguagem utilizada para a resolução desses desafios foi a linguagem Java.
+A linguagem utilizada para a resolução desses desafios foi a linguagem Java. Para uma interação melhor com o tester, foi utilizado a toolkit Swing do java. 
+
+Versão do Java Utilizada no desenvolvimento: openjdk 17.0.2 2022-01-18 LTS
+IDE Utilizada: IntelliJ IDEA 2021.3.2 (Community Edition)
 
 ### Passos para executar o programa:
 
